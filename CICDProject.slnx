@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CICDAPI/CICDAPI.csproj" />
+  <Project Path="UI/UI.csproj" />
+</Solution>
